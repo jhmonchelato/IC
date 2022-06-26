@@ -4,7 +4,7 @@ import random
 import time
 from skimage.draw import line
 from collections import defaultdict
-#oie
+
 '''
 read_swc()
 
